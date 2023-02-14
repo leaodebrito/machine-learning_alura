@@ -1,5 +1,5 @@
 # Machine Learning
-## (Formação Alura - Cursos)[https://cursos.alura.com.br/formacao-machine-learning]
+## [Formação Alura - Cursos](https://cursos.alura.com.br/formacao-machine-learning)
 
 ### Machine Learning
 Como seres humanos, somos capazes de aprender como detectar diversos tipos de padrões. Contudo, com o avanço na quantidade e qualidade de dados que capturamos, fica cada vez mais difícil elaborar em nossa cabeça um modelo que descreva o que acontece ou acontecerá em determinadas situações.
