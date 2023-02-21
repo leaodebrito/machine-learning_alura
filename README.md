@@ -15,7 +15,8 @@ Nos cursos desta Formação, veremos diversas maneiras de atacar problemas, semp
 
 
 ## Etapas
-1. Primeiros passos
-2. Avançando na classificação
+1. Primeiros passos (ok!)
+2. Avançando na classificação (loading...)
 3. Avançando na clusterização
 4. Validação e otimização
+
